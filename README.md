@@ -6,7 +6,7 @@ Execute Hasher_Main.ps1. Recommended users run Hasher_Main.ps1 in its own direct
 File structure should look like this:
 
 - (dir) Hasher (or whatever name you choose)
-  - Hasher_Main.ps1
+  - Hasher_Main.ps1 (execute this)
   - (dir) Algorithms
     - md5.ps1
     - sha1.ps1
